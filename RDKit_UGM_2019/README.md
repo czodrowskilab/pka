@@ -10,7 +10,7 @@ In addition to Jupyter, IPython and Python 3.6 (or higher) the following librari
 - Scikit-Learn
 - Seaborn
 
-## Datasets
+## Dataset
 
 The [monoprotic p*K*<sub>a</sub> dataset](monoprotic_chembl_datawarrior.sdf) was derived from the raw data of 
 *[ChEMBL25](https://www.ebi.ac.uk/chembl/)* and *[DataWarrior](http://www.openmolecules.org/datawarrior/)*. 
