@@ -1,6 +1,6 @@
 # Open Source p*K*<sub>a</sub> Predictions
 
-## Prerequisites to Run The Notebook
+## Prerequisites to Run the Notebook
 
 In addition to Jupyter, IPython and Python 3.6 (or higher) the following libraries are required:
 - Matplotlib
