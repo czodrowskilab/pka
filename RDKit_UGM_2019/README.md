@@ -14,7 +14,7 @@ In addition to Jupyter, IPython and Python 3.6 (or higher) the following librari
 
 The [monoprotic p*K*<sub>a</sub> dataset](monoprotic_chembl_datawarrior.sdf) was derived from the raw data of 
 *[ChEMBL25](https://www.ebi.ac.uk/chembl/)* and *[DataWarrior](http://www.openmolecules.org/datawarrior/)*. 
-The p*K*<sub>a</sub> calculator plugin of *Marvin*<sup>[1]</sup> were used for p*K*<sub>a</sub> prediction and for the
+The p*K*<sub>a</sub> calculator plugin of *Marvin*<sup>[1]</sup> was used for p*K*<sub>a</sub> prediction and for the
 determination of the titratable groups.
 
 Every SDF entry has four properties:
